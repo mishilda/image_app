@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% import 'bootstrap/wtf.html' as wtf %}
+
+{% block app_content %}
+    <div class="row">
+        <div class="col-md-4">
+            {% if step < max_step-1 %}
+            <form method="post">
+                <input type="submit" name="response" value="-2">
+                <input type="submit" name="response" value="-1">
+                <input type="submit" name="response" value="0">
+                <input type="submit" name="response" value="+1">
+                <input type="submit" name="response" value="+2">
+            </form>
+            {% endif %}
+        </div>
+    </div>
+{% endblock %}
