@@ -75,7 +75,9 @@ class Experiment(object):
 
 
 class Interviewee():
-    name = None
-    age = None
-    gender = None
-    education = None
+    def __init__(self, data):
+        self.uuid_inter = str(uuid4())
+        self.name = data.get('name', '')
+        self.age = data.get('age', '')
+        self.gender = data.get('gender', '')
+        self.education = data.get('education', '')

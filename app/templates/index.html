@@ -1,4 +1,7 @@
 {% extends "base.html" %}
 {% block app_content %}
+<a href="{{ url_for('create_new_experiment') }}">create_new_experiment</a>
+<a href="{{ url_for('change_current_experiment') }}">change_current_experiment</a>
+<a href="{{ url_for('new_quiz') }}">new_quiz</a>
 {% endblock %}
 
