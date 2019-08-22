@@ -4,7 +4,10 @@
 {% block app_content %}
     <div class="row">
         <div class="col-md-4">
-            <a href="{{ url_for('test', step=0) }}">Start</a>
+            <a href="{{ url_for('first', uuid_inter=uuid_inter) }}" target="_blank">First Window</a>
+            <a href="{{ url_for('second', uuid_inter=uuid_inter) }}" target="_blank">Second Window</a>
+            <a href="{{ url_for('third', uuid_inter=uuid_inter) }}" target="_blank">Third Window</a>
+            <a href="{{ url_for('test', step=0, uuid_inter=uuid_inter) }}" target="_blank">Start</a>
         </div>
     </div>
 {% endblock %}

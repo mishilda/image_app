@@ -1,1 +1,1 @@
-{"exp_uuid": "bytearray", "create_datetime": "2019-08-21T12:31:48.431191", "dataset": "original, output sat 1.1, output sat 1.5", "amount_of_pic": "10", "time_to_response": "0:30", "config_name": "current"}
+{"exp_uuid": "75f64542-8c43-4a10-9bcf-1c2e6fbf9607", "create_datetime": "2019-08-22T17:34:11.420743", "dataset": "original,output wp 500,output wp 1000", "amount_of_pic": 20, "time_to_response": "10", "config_name": "current"}

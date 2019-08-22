@@ -5,17 +5,17 @@
     <div>
         <img src='' id="pic_id">
     </div>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script type="text/javascript">
+   <script type="text/javascript">
         $(function() {
             var key = "{{ this_pic|safe }}";
+            var uuid_inter= "{{ uuid_inter|safe }}";
             setInterval(function() {
-                $.ajax("{{ url_for('notifications') }}?key=" + key).done(
+                $.ajax("{{ url_for('notifications') }}?key=" + key + "&uuid_inter=" + uuid_inter).done(
                     function(notifications) {
                         document.getElementById('pic_id').src=notifications;
                     }
                 );
-            }, 1000);
+            }, 2000);
         });
     </script>
         

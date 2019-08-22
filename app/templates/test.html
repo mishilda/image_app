@@ -4,15 +4,26 @@
 {% block app_content %}
     <div class="row">
         <div class="col-md-4">
-            {% if step < max_step-1 %}
-            <form method="post">
-                <input type="submit" name="response" value="-2">
-                <input type="submit" name="response" value="-1">
-                <input type="submit" name="response" value="0">
-                <input type="submit" name="response" value="+1">
-                <input type="submit" name="response" value="+2">
+            <form id="resp_form" method="post">
+                <input type="submit" name="response" value="-2" disabled>
+                <input type="submit" name="response" value="-1" disabled>
+                <input type="submit" name="response" value="0" disabled>
+                <input type="submit" name="response" value="+1" disabled>
+                <input type="submit" name="response" value="+2" disabled>
             </form>
-            {% endif %}
         </div>
     </div>
+
+    <script>
+        function form_is_ready() {
+            $("input").prop("disabled", false)            
+        }
+        setTimeout(form_is_ready, 3000)
+
+        var time_to_response="{{ time_to_response|safe }}" * 1000;
+        function next_page() {
+            document.getElementById("resp_form").submit();
+        }
+        setTimeout(next_page, time_to_response + 3000)
+    </script>
 {% endblock %}
