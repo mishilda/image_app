@@ -1,0 +1,284 @@
+{
+  "answers": [
+    {
+      "answer_time": "2019-08-29T20:35:45.813511",
+      "comment": "",
+      "left": "bigWPS/Screenshot_20190430_163516.enh.png",
+      "original": "darken/Screenshot_20190430_163516.enh.png",
+      "response": 0,
+      "response_text": "indifferent",
+      "right": "bigSS/Screenshot_20190430_163516.enh.png",
+      "view_time": "2019-08-29T20:35:30.870213"
+    },
+    {
+      "answer_time": "2019-08-29T20:36:13.927579",
+      "comment": "",
+      "left": "orig/Screenshot_20190430_143536.png",
+      "original": "darken/Screenshot_20190430_143536.enh.png",
+      "response": null,
+      "response_text": "",
+      "right": "smallWPS/Screenshot_20190430_143536.enh.png",
+      "view_time": "2019-08-29T20:35:45.819893"
+    },
+    {
+      "answer_time": "2019-08-29T20:38:07.691663",
+      "comment": "",
+      "left": "smallSS/Screenshot_20190430_143536.enh.png",
+      "original": "darken/Screenshot_20190430_143536.enh.png",
+      "response": -1,
+      "response_text": "+left",
+      "right": "orig/Screenshot_20190430_143536.png",
+      "view_time": "2019-08-29T20:36:13.936429"
+    },
+    {
+      "answer_time": "2019-08-29T20:38:35.739349",
+      "comment": "",
+      "left": "bigSS/Screenshot_20190814_174355.enh.png",
+      "original": "darken/Screenshot_20190814_174355.enh.png",
+      "response": null,
+      "response_text": "",
+      "right": "bigWPS/Screenshot_20190814_174355.enh.png",
+      "view_time": "2019-08-29T20:38:07.695074"
+    },
+    {
+      "answer_time": "2019-08-29T20:39:05.601455",
+      "comment": "",
+      "left": "smallWPS/Screenshot_20190430_144524.enh.png",
+      "original": "darken/Screenshot_20190430_144524.enh.png",
+      "response": null,
+      "response_text": "",
+      "right": "orig/Screenshot_20190430_144524.png",
+      "view_time": "2019-08-29T20:38:35.744872"
+    },
+    {
+      "answer_time": "2019-08-29T20:39:13.644540",
+      "comment": "",
+      "left": "smallSS/Screenshot_20190430_163516.enh.png",
+      "original": "darken/Screenshot_20190430_163516.enh.png",
+      "response": 2,
+      "response_text": "++right",
+      "right": "smallWPS/Screenshot_20190430_163516.enh.png",
+      "view_time": "2019-08-29T20:39:05.604745"
+    },
+    {
+      "answer_time": "2019-08-29T20:39:51.521853",
+      "comment": "",
+      "left": "orig/Screenshot_20190814_174355.png",
+      "original": "darken/Screenshot_20190814_174355.enh.png",
+      "response": null,
+      "response_text": "",
+      "right": "smallSS/Screenshot_20190814_174355.enh.png",
+      "view_time": "2019-08-29T20:39:13.652226"
+    },
+    {
+      "answer_time": "2019-08-29T20:40:52.939877",
+      "comment": "",
+      "left": "smallWPS/Screenshot_20190430_125716.enh.png",
+      "original": "darken/Screenshot_20190430_125716.enh.png",
+      "response": null,
+      "response_text": "",
+      "right": "smallSS/Screenshot_20190430_125716.enh.png",
+      "view_time": "2019-08-29T20:39:51.525231"
+    },
+    {
+      "answer_time": "2019-08-29T20:41:20.236212",
+      "comment": "",
+      "left": "bigSS/Screenshot_20190430_125716.enh.png",
+      "original": "darken/Screenshot_20190430_125716.enh.png",
+      "response": null,
+      "response_text": "",
+      "right": "bigWPS/Screenshot_20190430_125716.enh.png",
+      "view_time": "2019-08-29T20:40:52.943017"
+    },
+    {
+      "answer_time": "2019-08-29T20:42:12.540498",
+      "comment": "",
+      "left": "smallWPS/Screenshot_20190430_163516.enh.png",
+      "original": "darken/Screenshot_20190430_163516.enh.png",
+      "response": null,
+      "response_text": "",
+      "right": "orig/Screenshot_20190430_163516.png",
+      "view_time": "2019-08-29T20:41:20.240129"
+    },
+    {
+      "answer_time": "2019-08-29T20:42:29.271129",
+      "comment": "",
+      "left": "smallSS/Screenshot_20190430_144601.enh.png",
+      "original": "darken/Screenshot_20190430_144601.enh.png",
+      "response": 1,
+      "response_text": "+right",
+      "right": "smallWPS/Screenshot_20190430_144601.enh.png",
+      "view_time": "2019-08-29T20:42:12.543527"
+    },
+    {
+      "left": "smallWPS/Screenshot_20190430_164528.enh.png",
+      "original": "darken/Screenshot_20190430_164528.enh.png",
+      "right": "smallSS/Screenshot_20190430_164528.enh.png",
+      "view_time": "2019-08-29T20:42:29.274274"
+    },
+    {
+      "left": "orig/Screenshot_20190430_144640.png",
+      "original": "darken/Screenshot_20190430_144640.enh.png",
+      "right": "smallSS/Screenshot_20190430_144640.enh.png"
+    },
+    {
+      "left": "orig/Screenshot_20190430_125716.png",
+      "original": "darken/Screenshot_20190430_125716.enh.png",
+      "right": "smallWPS/Screenshot_20190430_125716.enh.png"
+    },
+    {
+      "left": "smallSS/Screenshot_20190430_144524.enh.png",
+      "original": "darken/Screenshot_20190430_144524.enh.png",
+      "right": "orig/Screenshot_20190430_144524.png"
+    },
+    {
+      "left": "bigSS/Screenshot_20190814_174214.enh.png",
+      "original": "darken/Screenshot_20190814_174214.enh.png",
+      "right": "bigWPS/Screenshot_20190814_174214.enh.png"
+    },
+    {
+      "left": "orig/Screenshot_20190430_163516.png",
+      "original": "darken/Screenshot_20190430_163516.enh.png",
+      "right": "smallSS/Screenshot_20190430_163516.enh.png"
+    },
+    {
+      "left": "bigSS/Screenshot_20190430_144640.enh.png",
+      "original": "darken/Screenshot_20190430_144640.enh.png",
+      "right": "bigWPS/Screenshot_20190430_144640.enh.png"
+    },
+    {
+      "left": "orig/Screenshot_20190814_174214.png",
+      "original": "darken/Screenshot_20190814_174214.enh.png",
+      "right": "smallWPS/Screenshot_20190814_174214.enh.png"
+    },
+    {
+      "left": "bigWPS/Screenshot_20190430_143536.enh.png",
+      "original": "darken/Screenshot_20190430_143536.enh.png",
+      "right": "bigSS/Screenshot_20190430_143536.enh.png"
+    },
+    {
+      "left": "smallWPS/Screenshot_20190430_143536.enh.png",
+      "original": "darken/Screenshot_20190430_143536.enh.png",
+      "right": "smallSS/Screenshot_20190430_143536.enh.png"
+    },
+    {
+      "left": "orig/Screenshot_20190430_141058.png",
+      "original": "darken/Screenshot_20190430_141058.enh.png",
+      "right": "smallSS/Screenshot_20190430_141058.enh.png"
+    },
+    {
+      "left": "smallWPS/Screenshot_20190430_144601.enh.png",
+      "original": "darken/Screenshot_20190430_144601.enh.png",
+      "right": "orig/Screenshot_20190430_144601.png"
+    },
+    {
+      "left": "orig/Screenshot_20190430_125716.png",
+      "original": "darken/Screenshot_20190430_125716.enh.png",
+      "right": "smallSS/Screenshot_20190430_125716.enh.png"
+    },
+    {
+      "left": "orig/Screenshot_20190430_144640.png",
+      "original": "darken/Screenshot_20190430_144640.enh.png",
+      "right": "smallWPS/Screenshot_20190430_144640.enh.png"
+    },
+    {
+      "left": "orig/Screenshot_20190814_174355.png",
+      "original": "darken/Screenshot_20190814_174355.enh.png",
+      "right": "smallWPS/Screenshot_20190814_174355.enh.png"
+    },
+    {
+      "left": "smallSS/Screenshot_20190814_174214.enh.png",
+      "original": "darken/Screenshot_20190814_174214.enh.png",
+      "right": "orig/Screenshot_20190814_174214.png"
+    },
+    {
+      "left": "smallWPS/Screenshot_20190814_174214.enh.png",
+      "original": "darken/Screenshot_20190814_174214.enh.png",
+      "right": "smallSS/Screenshot_20190814_174214.enh.png"
+    },
+    {
+      "left": "bigSS/Screenshot_20190430_144524.enh.png",
+      "original": "darken/Screenshot_20190430_144524.enh.png",
+      "right": "bigWPS/Screenshot_20190430_144524.enh.png"
+    },
+    {
+      "left": "smallSS/Screenshot_20190430_144640.enh.png",
+      "original": "darken/Screenshot_20190430_144640.enh.png",
+      "right": "smallWPS/Screenshot_20190430_144640.enh.png"
+    },
+    {
+      "left": "smallWPS/Screenshot_20190814_174355.enh.png",
+      "original": "darken/Screenshot_20190814_174355.enh.png",
+      "right": "smallSS/Screenshot_20190814_174355.enh.png"
+    },
+    {
+      "left": "bigWPS/Screenshot_20190430_164528.enh.png",
+      "original": "darken/Screenshot_20190430_164528.enh.png",
+      "right": "bigSS/Screenshot_20190430_164528.enh.png"
+    },
+    {
+      "left": "smallSS/Screenshot_20190430_144601.enh.png",
+      "original": "darken/Screenshot_20190430_144601.enh.png",
+      "right": "orig/Screenshot_20190430_144601.png"
+    },
+    {
+      "left": "bigSS/Screenshot_20190430_144601.enh.png",
+      "original": "darken/Screenshot_20190430_144601.enh.png",
+      "right": "bigWPS/Screenshot_20190430_144601.enh.png"
+    },
+    {
+      "left": "smallWPS/Screenshot_20190430_141058.enh.png",
+      "original": "darken/Screenshot_20190430_141058.enh.png",
+      "right": "smallSS/Screenshot_20190430_141058.enh.png"
+    },
+    {
+      "left": "orig/Screenshot_20190430_141058.png",
+      "original": "darken/Screenshot_20190430_141058.enh.png",
+      "right": "smallWPS/Screenshot_20190430_141058.enh.png"
+    },
+    {
+      "left": "bigSS/Screenshot_20190430_141058.enh.png",
+      "original": "darken/Screenshot_20190430_141058.enh.png",
+      "right": "bigWPS/Screenshot_20190430_141058.enh.png"
+    },
+    {
+      "left": "smallSS/Screenshot_20190430_144524.enh.png",
+      "original": "darken/Screenshot_20190430_144524.enh.png",
+      "right": "smallWPS/Screenshot_20190430_144524.enh.png"
+    },
+    {
+      "left": "orig/Screenshot_20190430_164528.png",
+      "original": "darken/Screenshot_20190430_164528.enh.png",
+      "right": "smallWPS/Screenshot_20190430_164528.enh.png"
+    },
+    {
+      "left": "smallSS/Screenshot_20190430_164528.enh.png",
+      "original": "darken/Screenshot_20190430_164528.enh.png",
+      "right": "orig/Screenshot_20190430_164528.png"
+    }
+  ],
+  "experiment": {
+    "config_name": "test_dis",
+    "create_datetime": "2019-08-29T17:28:54.684185",
+    "dataset": "/home/pavlova_m/Documents/hw/trunk/human_studies/test_application/app/static/HS_v0/HS_v0_1.csv",
+    "finish_time": "2019-08-29T20:42:40.009046",
+    "is_complete": false,
+    "left_h": "",
+    "original_h": "",
+    "rel_dataset": "HS_v0/HS_v0_1.csv",
+    "repetitions": 1,
+    "right_h": "",
+    "start_time": "2019-08-29T20:35:45.813368",
+    "time_to_response": "20",
+    "with_comments": true
+  },
+  "interviewee": {
+    "age": "<20",
+    "csrf_token": "IjA5NDA3MDFhYWE2YTA4ZWU4ZmRlY2IwMjE1MGZkMTAxY2Y0MzRkMTIi.XWgM3Q.FOhJyuQSaiOGIsiKgkpVr_mz4CQ",
+    "education": "<BSc",
+    "gender": "male",
+    "submit": "Continue",
+    "username": "test",
+    "vision_health": "3"
+  }
+}

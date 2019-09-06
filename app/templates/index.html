@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block app_content %}
+<style>
+    ul {
+        list-style: none;
+    }
+</style>
+<div>
+    <ul>
+        <li><a href="{{ url_for('create_new_experiment') }}">Create new experiment</a></li>
+        <li><a href="{{ url_for('change_current_experiment') }}">Change current experiment</a></li>
+        <li><a href="{{ url_for('new_quiz') }}">Start new quiz</a></li>
+    </ul>
+</div>
+{% endblock %}
+

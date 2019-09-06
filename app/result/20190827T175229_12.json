@@ -1,0 +1,224 @@
+{
+  "Answers": {
+    "0": {
+      "comment": "",
+      "item": {
+        " output sat 1.1": "static/output sat 1.1/Screenshot_20190430_144800_enh__contr_0.0_sat_1.1_wps_0.0.png",
+        " output wp 500": "static/output wp 500/Screenshot_20190430_144800_enh__contr_0.0_sat_1.0_wps_500.0.png",
+        "original": "static/original/Screenshot_20190430_144800.png"
+      },
+      "response": "0",
+      "timestamp": "2019-08-27T14:51:02.989838"
+    },
+    "1": {
+      "comment": "",
+      "item": {
+        " output sat 1.1": "static/output sat 1.1/Screenshot_20190430_144736_enh__contr_0.0_sat_1.1_wps_0.0.png",
+        " output wp 500": "static/output wp 500/Screenshot_20190430_144736_enh__contr_0.0_sat_1.0_wps_500.0.png",
+        "original": "static/original/Screenshot_20190430_144736.png"
+      },
+      "response": "0",
+      "timestamp": "2019-08-27T14:51:16.054634"
+    },
+    "10": {
+      "comment": "",
+      "item": {
+        " output sat 1.1": "static/output sat 1.1/Screenshot_20190430_144524_enh__contr_0.0_sat_1.1_wps_0.0.png",
+        " output wp 500": "static/output wp 500/Screenshot_20190430_144524_enh__contr_0.0_sat_1.0_wps_500.0.png",
+        "original": "static/original/Screenshot_20190430_144524.png"
+      },
+      "response": "++right",
+      "timestamp": "2019-08-27T14:51:55.094814"
+    },
+    "11": {
+      "comment": "",
+      "item": {
+        " output sat 1.1": "static/output sat 1.1/Screenshot_20190430_161024_enh__contr_0.0_sat_1.1_wps_0.0.png",
+        " output wp 500": "static/output wp 500/Screenshot_20190430_161024_enh__contr_0.0_sat_1.0_wps_500.0.png",
+        "original": "static/original/Screenshot_20190430_161024.png"
+      },
+      "response": "+left",
+      "timestamp": "2019-08-27T14:51:58.888125"
+    },
+    "12": {
+      "comment": "",
+      "item": {
+        " output sat 1.1": "static/output sat 1.1/Screenshot_20190430_144310_enh__contr_0.0_sat_1.1_wps_0.0.png",
+        " output wp 500": "static/output wp 500/Screenshot_20190430_144310_enh__contr_0.0_sat_1.0_wps_500.0.png",
+        "original": "static/original/Screenshot_20190430_144310.png"
+      },
+      "response": "indifferent",
+      "timestamp": "2019-08-27T14:52:02.469178"
+    },
+    "13": {
+      "comment": "",
+      "item": {
+        " output sat 1.1": "static/output sat 1.1/Screenshot_20190430_141058_enh__contr_0.0_sat_1.1_wps_0.0.png",
+        " output wp 500": "static/output wp 500/Screenshot_20190430_141058_enh__contr_0.0_sat_1.0_wps_500.0.png",
+        "original": "static/original/Screenshot_20190430_141058.png"
+      },
+      "response": "+right",
+      "timestamp": "2019-08-27T14:52:06.583367"
+    },
+    "14": {
+      "comment": "",
+      "item": {
+        " output sat 1.1": "static/output sat 1.1/Screenshot_20190430_143443_enh__contr_0.0_sat_1.1_wps_0.0.png",
+        " output wp 500": "static/output wp 500/Screenshot_20190430_143443_enh__contr_0.0_sat_1.0_wps_500.0.png",
+        "original": "static/original/Screenshot_20190430_143443.png"
+      },
+      "response": "++left",
+      "timestamp": "2019-08-27T14:52:10.448978"
+    },
+    "15": {
+      "comment": "",
+      "item": {
+        " output sat 1.1": "static/output sat 1.1/Screenshot_20190430_141358_enh__contr_0.0_sat_1.1_wps_0.0.png",
+        " output wp 500": "static/output wp 500/Screenshot_20190430_141358_enh__contr_0.0_sat_1.0_wps_500.0.png",
+        "original": "static/original/Screenshot_20190430_141358.png"
+      },
+      "response": "indifferent",
+      "timestamp": "2019-08-27T14:52:14.063118"
+    },
+    "16": {
+      "comment": "",
+      "item": {
+        " output sat 1.1": "static/output sat 1.1/Screenshot_20190430_140809_enh__contr_0.0_sat_1.1_wps_0.0.png",
+        " output wp 500": "static/output wp 500/Screenshot_20190430_140809_enh__contr_0.0_sat_1.0_wps_500.0.png",
+        "original": "static/original/Screenshot_20190430_140809.png"
+      },
+      "response": "++right",
+      "timestamp": "2019-08-27T14:52:18.320600"
+    },
+    "17": {
+      "comment": "",
+      "item": {
+        " output sat 1.1": "static/output sat 1.1/Screenshot_20190430_144501_enh__contr_0.0_sat_1.1_wps_0.0.png",
+        " output wp 500": "static/output wp 500/Screenshot_20190430_144501_enh__contr_0.0_sat_1.0_wps_500.0.png",
+        "original": "static/original/Screenshot_20190430_144501.png"
+      },
+      "response": "+right",
+      "timestamp": "2019-08-27T14:52:22.117368"
+    },
+    "18": {
+      "comment": "",
+      "item": {
+        " output sat 1.1": "static/output sat 1.1/Screenshot_20190430_144902_enh__contr_0.0_sat_1.1_wps_0.0.png",
+        " output wp 500": "static/output wp 500/Screenshot_20190430_144902_enh__contr_0.0_sat_1.0_wps_500.0.png",
+        "original": "static/original/Screenshot_20190430_144902.png"
+      },
+      "response": "+left",
+      "timestamp": "2019-08-27T14:52:25.736471"
+    },
+    "19": {
+      "comment": "",
+      "item": {
+        " output sat 1.1": "static/output sat 1.1/Screenshot_20190430_143536_enh__contr_0.0_sat_1.1_wps_0.0.png",
+        " output wp 500": "static/output wp 500/Screenshot_20190430_143536_enh__contr_0.0_sat_1.0_wps_500.0.png",
+        "original": "static/original/Screenshot_20190430_143536.png"
+      },
+      "response": "indifferent",
+      "timestamp": "2019-08-27T14:52:29.264870"
+    },
+    "2": {
+      "comment": "",
+      "item": {
+        " output sat 1.1": "static/output sat 1.1/Screenshot_20190430_144107_enh__contr_0.0_sat_1.1_wps_0.0.png",
+        " output wp 500": "static/output wp 500/Screenshot_20190430_144107_enh__contr_0.0_sat_1.0_wps_500.0.png",
+        "original": "static/original/Screenshot_20190430_144107.png"
+      },
+      "response": "++right",
+      "timestamp": "2019-08-27T14:51:24.701221"
+    },
+    "3": {
+      "comment": "",
+      "item": {
+        " output sat 1.1": "static/output sat 1.1/Screenshot_20190430_144355_enh__contr_0.0_sat_1.1_wps_0.0.png",
+        " output wp 500": "static/output wp 500/Screenshot_20190430_144355_enh__contr_0.0_sat_1.0_wps_500.0.png",
+        "original": "static/original/Screenshot_20190430_144355.png"
+      },
+      "response": "+left",
+      "timestamp": "2019-08-27T14:51:28.347983"
+    },
+    "4": {
+      "comment": "",
+      "item": {
+        " output sat 1.1": "static/output sat 1.1/Screenshot_20190430_144158_enh__contr_0.0_sat_1.1_wps_0.0.png",
+        " output wp 500": "static/output wp 500/Screenshot_20190430_144158_enh__contr_0.0_sat_1.0_wps_500.0.png",
+        "original": "static/original/Screenshot_20190430_144158.png"
+      },
+      "response": "+right",
+      "timestamp": "2019-08-27T14:51:32.226260"
+    },
+    "5": {
+      "comment": "",
+      "item": {
+        " output sat 1.1": "static/output sat 1.1/Screenshot_20190430_143638_enh__contr_0.0_sat_1.1_wps_0.0.png",
+        " output wp 500": "static/output wp 500/Screenshot_20190430_143638_enh__contr_0.0_sat_1.0_wps_500.0.png",
+        "original": "static/original/Screenshot_20190430_143638.png"
+      },
+      "response": "++left",
+      "timestamp": "2019-08-27T14:51:36.098584"
+    },
+    "6": {
+      "comment": "",
+      "item": {
+        " output sat 1.1": "static/output sat 1.1/Screenshot_20190430_144640_enh__contr_0.0_sat_1.1_wps_0.0.png",
+        " output wp 500": "static/output wp 500/Screenshot_20190430_144640_enh__contr_0.0_sat_1.0_wps_500.0.png",
+        "original": "static/original/Screenshot_20190430_144640.png"
+      },
+      "response": "indifferent",
+      "timestamp": "2019-08-27T14:51:39.214184"
+    },
+    "7": {
+      "comment": "",
+      "item": {
+        " output sat 1.1": "static/output sat 1.1/Screenshot_20190430_144601_enh__contr_0.0_sat_1.1_wps_0.0.png",
+        " output wp 500": "static/output wp 500/Screenshot_20190430_144601_enh__contr_0.0_sat_1.0_wps_500.0.png",
+        "original": "static/original/Screenshot_20190430_144601.png"
+      },
+      "response": "++right",
+      "timestamp": "2019-08-27T14:51:42.971470"
+    },
+    "8": {
+      "comment": "",
+      "item": {
+        " output sat 1.1": "static/output sat 1.1/Screenshot_20190430_143934_enh__contr_0.0_sat_1.1_wps_0.0.png",
+        " output wp 500": "static/output wp 500/Screenshot_20190430_143934_enh__contr_0.0_sat_1.0_wps_500.0.png",
+        "original": "static/original/Screenshot_20190430_143934.png"
+      },
+      "response": "++right",
+      "timestamp": "2019-08-27T14:51:46.648537"
+    },
+    "9": {
+      "comment": "",
+      "item": {
+        " output sat 1.1": "static/output sat 1.1/Screenshot_20190430_140907_enh__contr_0.0_sat_1.1_wps_0.0.png",
+        " output wp 500": "static/output wp 500/Screenshot_20190430_140907_enh__contr_0.0_sat_1.0_wps_500.0.png",
+        "original": "static/original/Screenshot_20190430_140907.png"
+      },
+      "response": "indifferent",
+      "timestamp": "2019-08-27T14:51:50.521517"
+    }
+  },
+  "Experiment": {
+    "config_name": "test",
+    "create_datetime": "2019-08-27T14:50:10.793704",
+    "dataset": "original, output sat 1.1, output wp 500",
+    "left_h": "500",
+    "original_h": "500",
+    "repetitions": 1,
+    "right_h": "500",
+    "time_to_response": "10",
+    "with_comments": false
+  },
+  "Interviewee": {
+    "age": "<20",
+    "csrf_token": "IjA5NDA3MDFhYWE2YTA4ZWU4ZmRlY2IwMjE1MGZkMTAxY2Y0MzRkMTIi.XWVDKA.l3EzZ-nAvFU8nUbzvCwY6Q2Mvvw",
+    "education": "<BSc",
+    "gender": "male",
+    "submit": "Continue",
+    "username": "12",
+    "vision_health": "no"
+  }
+}

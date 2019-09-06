@@ -1,0 +1,15 @@
+{
+    "surround": "avg",
+    "view_dist_cm": 40.0,
+    "dpi": 94,
+    "gamma": 2.4,
+    "power_model_coefs_filepath": "../config/simple_model_coefs_L29.txt",
+    "x3": 0,
+    "x2": 0,
+    "x": 1,
+    "sigma": 70,
+    "amount": 0.7,
+    "lum_coef": 0.95,
+    "satur_scale": 1.2,
+    "white_point_shift": 100.0
+}

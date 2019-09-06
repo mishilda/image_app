@@ -1,0 +1,47 @@
+{
+  "answers": [
+    {
+      "answer_time": "2019-08-28T20:04:04.775754",
+      "comment": "",
+      "left": "original/Screenshot_20190430_143536.png",
+      "original": "original/Screenshot_20190430_144601.png",
+      "response": 0,
+      "response_text": "indifferent",
+      "right": "original/Screenshot_20190430_144601.png",
+      "view_time": "2019-08-28T20:03:56.341393"
+    },
+    {
+      "answer_time": "2019-08-28T20:04:17.837869",
+      "comment": "",
+      "left": "original/Screenshot_20190430_144601.png",
+      "original": "original/Screenshot_20190430_143536.png",
+      "response": null,
+      "response_text": null,
+      "right": "original/Screenshot_20190430_143536.png",
+      "view_time": "2019-08-28T20:04:04.780163"
+    }
+  ],
+  "experiment": {
+    "config_name": "test_data",
+    "create_datetime": "2019-08-28T16:45:09.183147",
+    "dataset": "./app/static/_small_test_set.csv",
+    "finish_time": "2019-08-28T20:04:17.849987",
+    "is_complete": true,
+    "left_h": "",
+    "original_h": "",
+    "repetitions": 1,
+    "right_h": "",
+    "start_time": "2019-08-28T20:04:04.775604",
+    "time_to_response": "10",
+    "with_comments": false
+  },
+  "interviewee": {
+    "age": "<20",
+    "csrf_token": "IjA5NDA3MDFhYWE2YTA4ZWU4ZmRlY2IwMjE1MGZkMTAxY2Y0MzRkMTIi.XWaz6A.gUnhvt-pM_lLTAVVcHEPGJf8ffQ",
+    "education": "<BSc",
+    "gender": "male",
+    "submit": "Continue",
+    "username": "test1",
+    "vision_health": "r"
+  }
+}

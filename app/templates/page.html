@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% import 'bootstrap/wtf.html' as wtf %}
+
+{% block app_content %}
+<style>
+    body {
+        background-color: black;
+    }
+    img {
+        position:absolute;
+        width: {% if height %}{{ height }}px{% else %}100% {% endif %};
+    } 
+
+    .scroll {
+        height: 50mm;
+    }
+
+</style>
+    <title>{{ title }}</title>
+
+    <div>
+        <img src='' id="pic_id" onclick=openFullscreen()>
+    </div>
+   <script type="text/javascript">
+        $(function() {
+            var key = "{{ this_pic|safe }}";
+            setInterval(function() {
+                $.ajax("{{ url_for('notifications') }}?key=" + key).done(
+                    function(notifications) {
+                        if (notifications != ''){
+                            document.getElementById('pic_id').src='/static/'+notifications;
+                        }
+                        else {
+                            document.getElementById('pic_id').src='';
+                        }
+                    }
+                );
+            }, 2000);
+        });
+
+        var elem = document.documentElement;
+
+        function openFullscreen() {
+            if (elem.requestFullscreen) {
+                elem.requestFullscreen();
+            } else if (elem.mozRequestFullScreen) { /* Firefox */
+                elem.mozRequestFullScreen();
+            } else if (elem.webkitRequestFullscreen) { /* Chrome, Safari and Opera */
+                elem.webkitRequestFullscreen();
+            } else if (elem.msRequestFullscreen) { /* IE/Edge */
+                elem.msRequestFullscreen();
+            }
+        }
+    </script>
+{% endblock %}

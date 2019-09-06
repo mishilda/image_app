@@ -1,0 +1,112 @@
+<html>
+<head>
+    <style>
+        body {
+            background-color: #1e1e1e; 
+            color:#d79d41;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .form_div, .finish {
+            display: flex;
+            justify-content: space-around;
+        }
+        #hide_form {
+            display: none;
+        }
+    
+        .answer {
+            height: 5em;
+            width: 8em;
+            border: 0;
+            float: left;
+            color:#d79d41;
+            font-size: 0.9em;
+            transition-duration: 0.4s;
+        }
+
+        .answer:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+
+        .answer:hover, .selected {
+            box-shadow: 0 0 20px rgb(105, 168, 241);
+        }
+    
+        .two {
+            background-color: rgb(7, 88, 7)
+        }
+    
+        .one {
+            background-color: rgb(22, 129, 22)
+        }
+    
+        .zero {
+            background-color: rgb(94, 131, 26)
+        }
+
+        #comment {
+            height: 140px;
+            width: 500px;
+            border-radius: 10px;
+            border-color:#d79d41;
+        }
+        .send_div {
+            display: flex;
+            justify-content:right;
+            margin: 0.3em;
+        }
+        
+        .send_div input, .finish {
+            border: none;
+            height: 2.5em;
+            width: 6em;
+            border-radius: 5px;
+            background-color: #d79d41;
+        }
+
+        .send_div input:hover, .finish:hover {
+            box-shadow: 0 0 20px rgb(105, 168, 241);
+        }
+       
+        .finish a {
+            display: block;
+            text-decoration: none;
+            padding: 0.7em 1em;
+            color:black;
+        }
+        
+    </style>
+</head>
+
+<body>
+    <div>Step 1/20</div>
+    <div class="form_div">
+        <form id="resp_form" {% if with_comments %} onsubmit="on_submit()" {% endif %} method="post">
+            <input type="submit" onclick="but_click(this)" id="Digit1" class="answer two" name="response" value="++left" >
+            <input type="submit" onclick="but_click(this)" id="Digit2" class="answer one" name="response" value="+left" >
+            <input type="submit" onclick="but_click(this)" id="Digit3" class="answer zero" name="response" value="indifferent" disabled>
+            <input type="submit" onclick="but_click(this)" id="Digit4" class="answer one" name="response" value="+right" disabled>
+            <input type="submit" onclick="but_click(this)" id="Digit5" class="answer two" name="response" value="++right" disabled>
+        </form>
+    </div>
+    <div id="" class="form_div">
+        <div>
+            <div>
+                Comment:
+            </div>
+            <form id="comment_form" method="post">
+                <input type="hidden" name="response" id="hidden_resp">
+                <textarea  name="comment" id="comment"></textarea>
+                <div class="send_div">
+                    <input type="submit" value="Send">
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="finish">
+        <a href="" >Finish</a>
+    </div>
+</body>
+</html>

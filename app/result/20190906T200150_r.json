@@ -1,0 +1,127 @@
+{
+  "answers": [
+    {
+      "answer_time": "2019-09-06T20:01:02.607143",
+      "center": "static/adaptive/orig_selection/Screenshot_20190430_140907.png",
+      "comment": null,
+      "left": "static/adaptive/mediumContrast_mediumSS_smallWPS/Screenshot_20190430_140907.enh.png",
+      "response": null,
+      "response_text": "right",
+      "right": "static/adaptive/strongContrast_strongSS_smallWPS/Screenshot_20190430_140907.enh.png",
+      "view_time": "2019-09-06T20:00:58.429481"
+    },
+    {
+      "answer_time": "2019-09-06T20:01:11.477023",
+      "center": "static/adaptive/orig_selection/Screenshot_20190430_161111.png",
+      "comment": null,
+      "left": "static/adaptive/mediumContrast_mediumSS_smallWPS/Screenshot_20190430_161111.enh.png",
+      "response": null,
+      "response_text": "left",
+      "right": "static/adaptive/strongContrast_strongSS_smallWPS/Screenshot_20190430_161111.enh.png",
+      "view_time": "2019-09-06T20:01:02.614600"
+    },
+    {
+      "answer_time": "2019-09-06T20:01:18.550477",
+      "center": "static/adaptive/orig_selection/Screenshot_20190430_161404.png",
+      "comment": null,
+      "left": "static/adaptive/mediumContrast_mediumSS_smallWPS/Screenshot_20190430_161404.enh.png",
+      "response": null,
+      "response_text": "center",
+      "right": "static/adaptive/strongContrast_strongSS_smallWPS/Screenshot_20190430_161404.enh.png",
+      "view_time": "2019-09-06T20:01:11.484529"
+    },
+    {
+      "answer_time": "2019-09-06T20:01:24.128832",
+      "center": "static/adaptive/orig_selection/Screenshot_20190814_174355.png",
+      "comment": null,
+      "left": "static/adaptive/mediumContrast_mediumSS_smallWPS/Screenshot_20190814_174355.enh.png",
+      "response": null,
+      "response_text": "right",
+      "right": "static/adaptive/strongContrast_strongSS_smallWPS/Screenshot_20190814_174355.enh.png",
+      "view_time": "2019-09-06T20:01:18.556480"
+    },
+    {
+      "answer_time": "2019-09-06T20:01:29.165384",
+      "center": "static/adaptive/orig_selection/Screenshot_20190430_130137.png",
+      "comment": null,
+      "left": "static/adaptive/mediumContrast_mediumSS_smallWPS/Screenshot_20190430_130137.enh.png",
+      "response": null,
+      "response_text": "center",
+      "right": "static/adaptive/strongContrast_strongSS_smallWPS/Screenshot_20190430_130137.enh.png",
+      "view_time": "2019-09-06T20:01:24.136198"
+    },
+    {
+      "answer_time": "2019-09-06T20:01:37.133928",
+      "center": "static/adaptive/orig_selection/Screenshot_20190430_173612.png",
+      "comment": null,
+      "left": "static/adaptive/mediumContrast_mediumSS_smallWPS/Screenshot_20190430_173612.enh.png",
+      "response": null,
+      "response_text": "right",
+      "right": "static/adaptive/strongContrast_strongSS_smallWPS/Screenshot_20190430_173612.enh.png",
+      "view_time": "2019-09-06T20:01:29.170668"
+    },
+    {
+      "answer_time": "2019-09-06T20:01:39.807198",
+      "center": "static/adaptive/orig_selection/Screenshot_20190430_164347.png",
+      "comment": null,
+      "left": "static/adaptive/mediumContrast_mediumSS_smallWPS/Screenshot_20190430_164347.enh.png",
+      "response": null,
+      "response_text": "left",
+      "right": "static/adaptive/strongContrast_strongSS_smallWPS/Screenshot_20190430_164347.enh.png",
+      "view_time": "2019-09-06T20:01:37.141203"
+    },
+    {
+      "answer_time": "2019-09-06T20:01:43.007029",
+      "center": "static/adaptive/orig_selection/Screenshot_20190430_144601.png",
+      "comment": null,
+      "left": "static/adaptive/mediumContrast_mediumSS_smallWPS/Screenshot_20190430_144601.enh.png",
+      "response": null,
+      "response_text": "right",
+      "right": "static/adaptive/strongContrast_strongSS_smallWPS/Screenshot_20190430_144601.enh.png",
+      "view_time": "2019-09-06T20:01:39.814515"
+    },
+    {
+      "answer_time": "2019-09-06T20:01:45.155558",
+      "center": "static/adaptive/orig_selection/Screenshot_20190814_174214.png",
+      "comment": null,
+      "left": "static/adaptive/mediumContrast_mediumSS_smallWPS/Screenshot_20190814_174214.enh.png",
+      "response": null,
+      "response_text": "left",
+      "right": "static/adaptive/strongContrast_strongSS_smallWPS/Screenshot_20190814_174214.enh.png",
+      "view_time": "2019-09-06T20:01:43.009677"
+    },
+    {
+      "answer_time": "2019-09-06T20:01:50.597647",
+      "center": "static/adaptive/orig_selection/Screenshot_20190430_141058.png",
+      "comment": null,
+      "left": "static/adaptive/mediumContrast_mediumSS_smallWPS/Screenshot_20190430_141058.enh.png",
+      "response": null,
+      "response_text": "right",
+      "right": "static/adaptive/strongContrast_strongSS_smallWPS/Screenshot_20190430_141058.enh.png",
+      "view_time": "2019-09-06T20:01:45.159393"
+    }
+  ],
+  "experiment": {
+    "center_dir": "adaptive/orig_selection",
+    "config_name": "test",
+    "create_datetime": "2019-09-06T15:14:12.424590",
+    "finish_time": "2019-09-06T20:01:50.604357",
+    "is_complete": true,
+    "left_dir": "adaptive/mediumContrast_mediumSS_smallWPS",
+    "repetitions": 1,
+    "right_dir": "adaptive/strongContrast_strongSS_smallWPS",
+    "start_time": "2019-09-06T20:01:02.606983",
+    "task": "Выберите изображение, которое вам больше НРАВИТСЯ",
+    "time_to_response": "30",
+    "width": ""
+  },
+  "interviewee": {
+    "age": "<20",
+    "csrf_token": "Ijk1YjgyOTMyZDk3Y2EyYzNlNjJhM2JlNDUxZDg1MzI5ZTI2MzJhNDUi.XXKQxw.1s2OdwykDtKfuH_Gf23Dc3YsMsI",
+    "education": "<BSc",
+    "gender": "male",
+    "submit": "Continue",
+    "username": "r",
+    "vision_health": "f"
+  }
+}

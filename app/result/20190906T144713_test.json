@@ -1,0 +1,1168 @@
+{
+  "answers": [
+    {
+      "answer_time": "2019-09-06T14:22:31.481235",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_143934.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_143934.enh.png",
+      "view_time": "2019-09-06T14:22:18.416305"
+    },
+    {
+      "answer_time": "2019-09-06T14:22:44.540674",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_140907.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_smallSS_smallWPS/Screenshot_20190430_140907.enh.png",
+      "view_time": "2019-09-06T14:22:31.484661"
+    },
+    {
+      "answer_time": "2019-09-06T14:22:57.597677",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_164347.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_164347.enh.png",
+      "view_time": "2019-09-06T14:22:44.546792"
+    },
+    {
+      "answer_time": "2019-09-06T14:23:10.650857",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_173612.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_smallSS_smallWPS/Screenshot_20190430_173612.enh.png",
+      "view_time": "2019-09-06T14:22:57.600640"
+    },
+    {
+      "answer_time": "2019-09-06T14:23:23.698736",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_173807.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_173807.enh.png",
+      "view_time": "2019-09-06T14:23:10.654670"
+    },
+    {
+      "answer_time": "2019-09-06T14:23:36.747020",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_164347.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_mediumSS_smallWPS/Screenshot_20190430_164347.enh.png",
+      "view_time": "2019-09-06T14:23:23.702086"
+    },
+    {
+      "answer_time": "2019-09-06T14:23:49.796712",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_140907.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/smallContrast_mediumSS_smallWPS/Screenshot_20190430_140907.enh.png",
+      "view_time": "2019-09-06T14:23:36.750018"
+    },
+    {
+      "answer_time": "2019-09-06T14:24:02.846235",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_144310.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_144310.enh.png",
+      "view_time": "2019-09-06T14:23:49.799889"
+    },
+    {
+      "answer_time": "2019-09-06T14:24:15.891650",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_180421.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_180421.enh.png",
+      "view_time": "2019-09-06T14:24:02.849353"
+    },
+    {
+      "answer_time": "2019-09-06T14:24:28.939956",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_173612.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/smallContrast_strongSS_smallWPS/Screenshot_20190430_173612.enh.png",
+      "view_time": "2019-09-06T14:24:15.894750"
+    },
+    {
+      "answer_time": "2019-09-06T14:24:41.999463",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_125656.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_125656.enh.png",
+      "view_time": "2019-09-06T14:24:28.943147"
+    },
+    {
+      "answer_time": "2019-09-06T14:24:55.045128",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_161404.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_smallSS_smallWPS/Screenshot_20190430_161404.enh.png",
+      "view_time": "2019-09-06T14:24:42.002322"
+    },
+    {
+      "answer_time": "2019-09-06T14:25:08.100770",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_130137.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_mediumSS_smallWPS/Screenshot_20190430_130137.enh.png",
+      "view_time": "2019-09-06T14:24:55.047901"
+    },
+    {
+      "answer_time": "2019-09-06T14:25:21.148247",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_161111.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_strongSS_smallWPS/Screenshot_20190430_161111.enh.png",
+      "view_time": "2019-09-06T14:25:08.104049"
+    },
+    {
+      "answer_time": "2019-09-06T14:25:34.203148",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_130150.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_130150.enh.png",
+      "view_time": "2019-09-06T14:25:21.153792"
+    },
+    {
+      "answer_time": "2019-09-06T14:25:47.252797",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_130137.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_strongSS_smallWPS/Screenshot_20190430_130137.enh.png",
+      "view_time": "2019-09-06T14:25:34.206241"
+    },
+    {
+      "answer_time": "2019-09-06T14:26:00.309874",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_143536.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_143536.enh.png",
+      "view_time": "2019-09-06T14:25:47.256031"
+    },
+    {
+      "answer_time": "2019-09-06T14:26:13.382383",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_161111.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/smallContrast_strongSS_smallWPS/Screenshot_20190430_161111.enh.png",
+      "view_time": "2019-09-06T14:26:00.327623"
+    },
+    {
+      "answer_time": "2019-09-06T14:26:26.431705",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190814_174214.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_strongSS_smallWPS/Screenshot_20190814_174214.enh.png",
+      "view_time": "2019-09-06T14:26:13.385376"
+    },
+    {
+      "answer_time": "2019-09-06T14:26:39.485029",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_130137.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/smallContrast_mediumSS_smallWPS/Screenshot_20190430_130137.enh.png",
+      "view_time": "2019-09-06T14:26:26.434573"
+    },
+    {
+      "answer_time": "2019-09-06T14:26:52.534748",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_161404.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_strongSS_smallWPS/Screenshot_20190430_161404.enh.png",
+      "view_time": "2019-09-06T14:26:39.488179"
+    },
+    {
+      "answer_time": "2019-09-06T14:27:05.587822",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_161636.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_161636.enh.png",
+      "view_time": "2019-09-06T14:26:52.538188"
+    },
+    {
+      "answer_time": "2019-09-06T14:27:18.634195",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_161111.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_mediumSS_smallWPS/Screenshot_20190430_161111.enh.png",
+      "view_time": "2019-09-06T14:27:05.590977"
+    },
+    {
+      "answer_time": "2019-09-06T14:27:31.682940",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_140907.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_strongSS_smallWPS/Screenshot_20190430_140907.enh.png",
+      "view_time": "2019-09-06T14:27:18.637206"
+    },
+    {
+      "answer_time": "2019-09-06T14:27:44.734357",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_125737.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_125737.enh.png",
+      "view_time": "2019-09-06T14:27:31.685839"
+    },
+    {
+      "answer_time": "2019-09-06T14:27:57.784129",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_161111.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_strongSS_smallWPS/Screenshot_20190430_161111.enh.png",
+      "view_time": "2019-09-06T14:27:44.738106"
+    },
+    {
+      "answer_time": "2019-09-06T14:28:10.833806",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_164347.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_mediumSS_smallWPS/Screenshot_20190430_164347.enh.png",
+      "view_time": "2019-09-06T14:27:57.787239"
+    },
+    {
+      "answer_time": "2019-09-06T14:28:23.878699",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190814_174355.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_smallSS_smallWPS/Screenshot_20190814_174355.enh.png",
+      "view_time": "2019-09-06T14:28:10.836937"
+    },
+    {
+      "answer_time": "2019-09-06T14:28:36.927849",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_140907.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_smallSS_smallWPS/Screenshot_20190430_140907.enh.png",
+      "view_time": "2019-09-06T14:28:23.881659"
+    },
+    {
+      "answer_time": "2019-09-06T14:28:49.977512",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_141058.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/smallContrast_strongSS_smallWPS/Screenshot_20190430_141058.enh.png",
+      "view_time": "2019-09-06T14:28:36.931128"
+    },
+    {
+      "answer_time": "2019-09-06T14:29:03.023221",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_164347.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/smallContrast_mediumSS_smallWPS/Screenshot_20190430_164347.enh.png",
+      "view_time": "2019-09-06T14:28:49.981541"
+    },
+    {
+      "answer_time": "2019-09-06T14:29:16.081204",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_171144.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_171144.enh.png",
+      "view_time": "2019-09-06T14:29:03.027818"
+    },
+    {
+      "answer_time": "2019-09-06T14:29:29.134995",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190814_174355.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_strongSS_smallWPS/Screenshot_20190814_174355.enh.png",
+      "view_time": "2019-09-06T14:29:16.084499"
+    },
+    {
+      "answer_time": "2019-09-06T14:29:42.182227",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_144601.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_smallSS_smallWPS/Screenshot_20190430_144601.enh.png",
+      "view_time": "2019-09-06T14:29:29.137781"
+    },
+    {
+      "answer_time": "2019-09-06T14:29:55.231980",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_141058.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_strongSS_smallWPS/Screenshot_20190430_141058.enh.png",
+      "view_time": "2019-09-06T14:29:42.185341"
+    },
+    {
+      "answer_time": "2019-09-06T14:30:08.313597",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_173612.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_strongSS_smallWPS/Screenshot_20190430_173612.enh.png",
+      "view_time": "2019-09-06T14:29:55.235701"
+    },
+    {
+      "answer_time": "2019-09-06T14:30:21.369128",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_130137.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_smallSS_smallWPS/Screenshot_20190430_130137.enh.png",
+      "view_time": "2019-09-06T14:30:08.316680"
+    },
+    {
+      "answer_time": "2019-09-06T14:30:34.428460",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_144501.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_144501.enh.png",
+      "view_time": "2019-09-06T14:30:21.372509"
+    },
+    {
+      "answer_time": "2019-09-06T14:30:47.479365",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_161111.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_smallSS_smallWPS/Screenshot_20190430_161111.enh.png",
+      "view_time": "2019-09-06T14:30:34.431823"
+    },
+    {
+      "answer_time": "2019-09-06T14:31:00.542526",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_173612.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_smallSS_smallWPS/Screenshot_20190430_173612.enh.png",
+      "view_time": "2019-09-06T14:30:47.483364"
+    },
+    {
+      "answer_time": "2019-09-06T14:31:13.605496",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_161111.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_smallSS_smallWPS/Screenshot_20190430_161111.enh.png",
+      "view_time": "2019-09-06T14:31:00.547021"
+    },
+    {
+      "answer_time": "2019-09-06T14:31:26.698637",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_144601.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_mediumSS_smallWPS/Screenshot_20190430_144601.enh.png",
+      "view_time": "2019-09-06T14:31:13.608922"
+    },
+    {
+      "answer_time": "2019-09-06T14:31:39.757856",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_141058.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_smallSS_smallWPS/Screenshot_20190430_141058.enh.png",
+      "view_time": "2019-09-06T14:31:26.701675"
+    },
+    {
+      "answer_time": "2019-09-06T14:31:52.815624",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_141058.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/smallContrast_mediumSS_smallWPS/Screenshot_20190430_141058.enh.png",
+      "view_time": "2019-09-06T14:31:39.761395"
+    },
+    {
+      "answer_time": "2019-09-06T14:32:05.875768",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_161111.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_161111.enh.png",
+      "view_time": "2019-09-06T14:31:52.820588"
+    },
+    {
+      "answer_time": "2019-09-06T14:32:18.932253",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190814_174214.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_strongSS_smallWPS/Screenshot_20190814_174214.enh.png",
+      "view_time": "2019-09-06T14:32:05.879490"
+    },
+    {
+      "answer_time": "2019-09-06T14:32:31.980264",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_173612.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_173612.enh.png",
+      "view_time": "2019-09-06T14:32:18.935486"
+    },
+    {
+      "answer_time": "2019-09-06T14:32:45.036958",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_130137.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_mediumSS_smallWPS/Screenshot_20190430_130137.enh.png",
+      "view_time": "2019-09-06T14:32:31.983646"
+    },
+    {
+      "answer_time": "2019-09-06T14:32:58.095995",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_140907.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_140907.enh.png",
+      "view_time": "2019-09-06T14:32:45.040112"
+    },
+    {
+      "answer_time": "2019-09-06T14:33:11.145703",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_164701.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_164701.enh.png",
+      "view_time": "2019-09-06T14:32:58.101527"
+    },
+    {
+      "answer_time": "2019-09-06T14:33:24.202315",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_144736.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_144736.enh.png",
+      "view_time": "2019-09-06T14:33:11.152674"
+    },
+    {
+      "answer_time": "2019-09-06T14:33:37.254211",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190814_174355.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_mediumSS_smallWPS/Screenshot_20190814_174355.enh.png",
+      "view_time": "2019-09-06T14:33:24.205284"
+    },
+    {
+      "answer_time": "2019-09-06T14:33:50.310569",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_144601.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_strongSS_smallWPS/Screenshot_20190430_144601.enh.png",
+      "view_time": "2019-09-06T14:33:37.257430"
+    },
+    {
+      "answer_time": "2019-09-06T14:34:03.370258",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190814_174214.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_mediumSS_smallWPS/Screenshot_20190814_174214.enh.png",
+      "view_time": "2019-09-06T14:33:50.317651"
+    },
+    {
+      "answer_time": "2019-09-06T14:34:16.427459",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190814_174214.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/smallContrast_strongSS_smallWPS/Screenshot_20190814_174214.enh.png",
+      "view_time": "2019-09-06T14:34:03.374023"
+    },
+    {
+      "answer_time": "2019-09-06T14:34:29.487275",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_164347.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/smallContrast_strongSS_smallWPS/Screenshot_20190430_164347.enh.png",
+      "view_time": "2019-09-06T14:34:16.435508"
+    },
+    {
+      "answer_time": "2019-09-06T14:34:42.542759",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_144640.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_144640.enh.png",
+      "view_time": "2019-09-06T14:34:29.490560"
+    },
+    {
+      "answer_time": "2019-09-06T14:34:55.599507",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_125716.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_125716.enh.png",
+      "view_time": "2019-09-06T14:34:42.546464"
+    },
+    {
+      "answer_time": "2019-09-06T14:35:08.655151",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190814_174214.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_smallSS_smallWPS/Screenshot_20190814_174214.enh.png",
+      "view_time": "2019-09-06T14:34:55.602656"
+    },
+    {
+      "answer_time": "2019-09-06T14:35:21.706113",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190814_174355.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_strongSS_smallWPS/Screenshot_20190814_174355.enh.png",
+      "view_time": "2019-09-06T14:35:08.657972"
+    },
+    {
+      "answer_time": "2019-09-06T14:35:34.763696",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190814_174355.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_mediumSS_smallWPS/Screenshot_20190814_174355.enh.png",
+      "view_time": "2019-09-06T14:35:21.709158"
+    },
+    {
+      "answer_time": "2019-09-06T14:35:47.818963",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_173612.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_strongSS_smallWPS/Screenshot_20190430_173612.enh.png",
+      "view_time": "2019-09-06T14:35:34.766928"
+    },
+    {
+      "answer_time": "2019-09-06T14:36:00.874395",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_130137.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/smallContrast_strongSS_smallWPS/Screenshot_20190430_130137.enh.png",
+      "view_time": "2019-09-06T14:35:47.824800"
+    },
+    {
+      "answer_time": "2019-09-06T14:36:13.926037",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_161404.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/smallContrast_mediumSS_smallWPS/Screenshot_20190430_161404.enh.png",
+      "view_time": "2019-09-06T14:36:00.878076"
+    },
+    {
+      "answer_time": "2019-09-06T14:36:26.981124",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_144601.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/smallContrast_strongSS_smallWPS/Screenshot_20190430_144601.enh.png",
+      "view_time": "2019-09-06T14:36:13.928953"
+    },
+    {
+      "answer_time": "2019-09-06T14:36:40.030194",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_130137.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_strongSS_smallWPS/Screenshot_20190430_130137.enh.png",
+      "view_time": "2019-09-06T14:36:26.984208"
+    },
+    {
+      "answer_time": "2019-09-06T14:36:53.085252",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_164347.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_strongSS_smallWPS/Screenshot_20190430_164347.enh.png",
+      "view_time": "2019-09-06T14:36:40.033230"
+    },
+    {
+      "answer_time": "2019-09-06T14:37:06.143988",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_164347.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_smallSS_smallWPS/Screenshot_20190430_164347.enh.png",
+      "view_time": "2019-09-06T14:36:53.088794"
+    },
+    {
+      "answer_time": "2019-09-06T14:37:19.197448",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_161111.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/smallContrast_mediumSS_smallWPS/Screenshot_20190430_161111.enh.png",
+      "view_time": "2019-09-06T14:37:06.147268"
+    },
+    {
+      "answer_time": "2019-09-06T14:37:32.252578",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_173612.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/smallContrast_mediumSS_smallWPS/Screenshot_20190430_173612.enh.png",
+      "view_time": "2019-09-06T14:37:19.203443"
+    },
+    {
+      "answer_time": "2019-09-06T14:37:45.314183",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_140907.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/smallContrast_strongSS_smallWPS/Screenshot_20190430_140907.enh.png",
+      "view_time": "2019-09-06T14:37:32.261898"
+    },
+    {
+      "answer_time": "2019-09-06T14:37:58.366072",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_164347.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_smallSS_smallWPS/Screenshot_20190430_164347.enh.png",
+      "view_time": "2019-09-06T14:37:45.317712"
+    },
+    {
+      "answer_time": "2019-09-06T14:38:11.429569",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_161404.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_strongSS_smallWPS/Screenshot_20190430_161404.enh.png",
+      "view_time": "2019-09-06T14:37:58.370072"
+    },
+    {
+      "answer_time": "2019-09-06T14:38:24.483071",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_144524.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_144524.enh.png",
+      "view_time": "2019-09-06T14:38:11.436121"
+    },
+    {
+      "answer_time": "2019-09-06T14:38:37.540939",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_144601.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_smallSS_smallWPS/Screenshot_20190430_144601.enh.png",
+      "view_time": "2019-09-06T14:38:24.486335"
+    },
+    {
+      "answer_time": "2019-09-06T14:38:50.590458",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190814_174355.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_smallSS_smallWPS/Screenshot_20190814_174355.enh.png",
+      "view_time": "2019-09-06T14:38:37.544255"
+    },
+    {
+      "answer_time": "2019-09-06T14:39:03.664482",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190814_174355.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190814_174355.enh.png",
+      "view_time": "2019-09-06T14:38:50.593505"
+    },
+    {
+      "answer_time": "2019-09-06T14:39:16.723996",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_125552.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_125552.enh.png",
+      "view_time": "2019-09-06T14:39:03.667650"
+    },
+    {
+      "answer_time": "2019-09-06T14:39:29.780860",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_141058.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_141058.enh.png",
+      "view_time": "2019-09-06T14:39:16.729869"
+    },
+    {
+      "answer_time": "2019-09-06T14:39:42.827222",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_161404.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_mediumSS_smallWPS/Screenshot_20190430_161404.enh.png",
+      "view_time": "2019-09-06T14:39:29.784281"
+    },
+    {
+      "answer_time": "2019-09-06T14:39:55.880457",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190814_174214.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_mediumSS_smallWPS/Screenshot_20190814_174214.enh.png",
+      "view_time": "2019-09-06T14:39:42.833935"
+    },
+    {
+      "answer_time": "2019-09-06T14:40:08.965758",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_173006.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_173006.enh.png",
+      "view_time": "2019-09-06T14:39:55.883244"
+    },
+    {
+      "answer_time": "2019-09-06T14:40:22.017615",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_130137.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_smallSS_smallWPS/Screenshot_20190430_130137.enh.png",
+      "view_time": "2019-09-06T14:40:08.969051"
+    },
+    {
+      "answer_time": "2019-09-06T14:40:35.064870",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_144601.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_mediumSS_smallWPS/Screenshot_20190430_144601.enh.png",
+      "view_time": "2019-09-06T14:40:22.021167"
+    },
+    {
+      "answer_time": "2019-09-06T14:40:48.113032",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_140907.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_strongSS_smallWPS/Screenshot_20190430_140907.enh.png",
+      "view_time": "2019-09-06T14:40:35.069333"
+    },
+    {
+      "answer_time": "2019-09-06T14:41:01.159956",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_141058.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_mediumSS_smallWPS/Screenshot_20190430_141058.enh.png",
+      "view_time": "2019-09-06T14:40:48.116305"
+    },
+    {
+      "answer_time": "2019-09-06T14:41:14.213687",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190814_174214.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/smallContrast_mediumSS_smallWPS/Screenshot_20190814_174214.enh.png",
+      "view_time": "2019-09-06T14:41:01.163017"
+    },
+    {
+      "answer_time": "2019-09-06T14:41:27.502942",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_141058.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_smallSS_smallWPS/Screenshot_20190430_141058.enh.png",
+      "view_time": "2019-09-06T14:41:14.220602"
+    },
+    {
+      "answer_time": "2019-09-06T14:41:40.795845",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_164347.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_strongSS_smallWPS/Screenshot_20190430_164347.enh.png",
+      "view_time": "2019-09-06T14:41:27.506824"
+    },
+    {
+      "answer_time": "2019-09-06T14:41:54.083151",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_170625.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_170625.enh.png",
+      "view_time": "2019-09-06T14:41:40.799529"
+    },
+    {
+      "answer_time": "2019-09-06T14:42:07.378455",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_144601.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_144601.enh.png",
+      "view_time": "2019-09-06T14:41:54.091945"
+    },
+    {
+      "answer_time": "2019-09-06T14:42:20.672194",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_141058.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_mediumSS_smallWPS/Screenshot_20190430_141058.enh.png",
+      "view_time": "2019-09-06T14:42:07.382032"
+    },
+    {
+      "answer_time": "2019-09-06T14:42:33.961915",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_140809.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_140809.enh.png",
+      "view_time": "2019-09-06T14:42:20.675885"
+    },
+    {
+      "answer_time": "2019-09-06T14:42:47.259806",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_144601.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_strongSS_smallWPS/Screenshot_20190430_144601.enh.png",
+      "view_time": "2019-09-06T14:42:33.965529"
+    },
+    {
+      "answer_time": "2019-09-06T14:43:00.551728",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190814_174355.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/smallContrast_strongSS_smallWPS/Screenshot_20190814_174355.enh.png",
+      "view_time": "2019-09-06T14:42:47.263250"
+    },
+    {
+      "answer_time": "2019-09-06T14:43:13.842584",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_161404.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_161404.enh.png",
+      "view_time": "2019-09-06T14:43:00.555365"
+    },
+    {
+      "answer_time": "2019-09-06T14:43:27.139282",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190814_174355.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/smallContrast_mediumSS_smallWPS/Screenshot_20190814_174355.enh.png",
+      "view_time": "2019-09-06T14:43:13.846744"
+    },
+    {
+      "answer_time": "2019-09-06T14:43:40.426666",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190814_174214.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_smallSS_smallWPS/Screenshot_20190814_174214.enh.png",
+      "view_time": "2019-09-06T14:43:27.142132"
+    },
+    {
+      "answer_time": "2019-09-06T14:43:53.720420",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_161111.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_mediumSS_smallWPS/Screenshot_20190430_161111.enh.png",
+      "view_time": "2019-09-06T14:43:40.429703"
+    },
+    {
+      "answer_time": "2019-09-06T14:44:07.007492",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_173612.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_mediumSS_smallWPS/Screenshot_20190430_173612.enh.png",
+      "view_time": "2019-09-06T14:43:53.724212"
+    },
+    {
+      "answer_time": "2019-09-06T14:44:20.301133",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_141058.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_strongSS_smallWPS/Screenshot_20190430_141058.enh.png",
+      "view_time": "2019-09-06T14:44:07.011356"
+    },
+    {
+      "answer_time": "2019-09-06T14:44:33.591889",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_140907.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_mediumSS_smallWPS/Screenshot_20190430_140907.enh.png",
+      "view_time": "2019-09-06T14:44:20.304405"
+    },
+    {
+      "answer_time": "2019-09-06T14:44:46.881109",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_140907.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_mediumSS_smallWPS/Screenshot_20190430_140907.enh.png",
+      "view_time": "2019-09-06T14:44:33.595137"
+    },
+    {
+      "answer_time": "2019-09-06T14:45:00.172317",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_161404.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/smallContrast_strongSS_smallWPS/Screenshot_20190430_161404.enh.png",
+      "view_time": "2019-09-06T14:44:46.884920"
+    },
+    {
+      "answer_time": "2019-09-06T14:45:13.465163",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_130137.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_130137.enh.png",
+      "view_time": "2019-09-06T14:45:00.175585"
+    },
+    {
+      "answer_time": "2019-09-06T14:45:26.751960",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190814_174214.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190814_174214.enh.png",
+      "view_time": "2019-09-06T14:45:13.468118"
+    },
+    {
+      "answer_time": "2019-09-06T14:45:40.054100",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_161404.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/mediumContrast_smallSS_smallWPS/Screenshot_20190430_161404.enh.png",
+      "view_time": "2019-09-06T14:45:26.763432"
+    },
+    {
+      "answer_time": "2019-09-06T14:45:53.343335",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_173612.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_mediumSS_smallWPS/Screenshot_20190430_173612.enh.png",
+      "view_time": "2019-09-06T14:45:40.057136"
+    },
+    {
+      "answer_time": "2019-09-06T14:46:06.638218",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_144601.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/smallContrast_mediumSS_smallWPS/Screenshot_20190430_144601.enh.png",
+      "view_time": "2019-09-06T14:45:53.346075"
+    },
+    {
+      "answer_time": "2019-09-06T14:46:19.927443",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_161427.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_161427.enh.png",
+      "view_time": "2019-09-06T14:46:06.641392"
+    },
+    {
+      "answer_time": "2019-09-06T14:46:33.236804",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "adaptive/orig_selection/Screenshot_20190430_161404.png",
+      "response": null,
+      "response_text": null,
+      "right": "adaptive/strongContrast_mediumSS_smallWPS/Screenshot_20190430_161404.enh.png",
+      "view_time": "2019-09-06T14:46:19.932079"
+    },
+    {
+      "answer_time": "2019-09-06T14:46:46.526777",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_144158.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_144158.enh.png",
+      "view_time": "2019-09-06T14:46:33.240750"
+    },
+    {
+      "answer_time": "2019-09-06T14:46:59.818906",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_141358.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_141358.enh.png",
+      "view_time": "2019-09-06T14:46:46.529988"
+    },
+    {
+      "answer_time": "2019-09-06T14:47:13.104648",
+      "comment": null,
+      "left": "adaptive/third_image.png",
+      "original": "orig/Screenshot_20190430_163147.png",
+      "response": null,
+      "response_text": null,
+      "right": "smallContrast_smallSS_smallWPS/Screenshot_20190430_163147.enh.png",
+      "view_time": "2019-09-06T14:46:59.821870"
+    }
+  ],
+  "experiment": {
+    "config_name": "new_dataset",
+    "create_datetime": "2019-09-06T11:21:32.978162",
+    "dataset": "/home/pavlova_m/Documents/hw/trunk/human_studies/test_application/app/static/dataset.csv",
+    "finish_time": "2019-09-06T14:47:13.113979",
+    "is_complete": true,
+    "left_w": "",
+    "original_w": "",
+    "rel_dataset": "dataset.csv",
+    "repetitions": 1,
+    "right_w": "",
+    "start_time": "2019-09-06T14:22:31.481132",
+    "task": "Выберите изображение, которое вам больше НРАВИТСЯ",
+    "time_to_response": "10"
+  },
+  "interviewee": {
+    "age": "<20",
+    "csrf_token": "Ijk1YjgyOTMyZDk3Y2EyYzNlNjJhM2JlNDUxZDg1MzI5ZTI2MzJhNDUi.XXJBQw.1unSTab4EZGsldkR7GpbKXgPr_k",
+    "education": "<BSc",
+    "gender": "male",
+    "submit": "Continue",
+    "username": "test",
+    "vision_health": "test"
+  }
+}

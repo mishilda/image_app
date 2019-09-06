@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+
+{% block app_content %}
+<style>
+    body {
+        background: grey;
+    }
+
+    #hide_form {
+        display: none;
+    }
+
+    img {
+        width: 300px;
+        height: auto;
+    }
+    #images {
+        display: none;
+    }
+    .form_div, .finish {
+        display: flex;
+        justify-content: space-around;
+    }
+
+</style>
+<div id="images" class="form_div">
+<form id="resp_form" method="post">
+    <div>
+        <img src="{{ items['left'] }}" class="answer" onclick="pic_click('left')">
+        <img src="{{ items['center'] }}" class="answer" onclick="pic_click('center')">
+        <img src="{{ items['right'] }}" class="answer" onclick="pic_click('right')">
+        <input type="hidden" name="response" id="resp">
+    </div>
+</form>
+</div>
+
+<div id="hide_form" class="form_div">
+        <div>
+            <div>Comment:</div>
+            <form id="comment_form" method="post">
+                <input type="hidden" name="response" id="hidden_resp">
+                <textarea  name="comment" id="comment"></textarea>
+                <div class="send_div">
+                    <input type="submit" value="Send">
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="finish">
+        <a href="{{ url_for('finish') }}">Finish</a>
+    </div>
+    <div class="form_div">
+        <span class="task_text">{{ task }}</span>
+    </div>
+
+
+    <script>
+        function form_is_ready() {
+            $("#images").css("display", "flex");            
+        }
+        setTimeout(form_is_ready, 2000)
+
+        var time_to_response="{{ time_to_response|safe }}" * 1000;
+        function next_page() {
+            var with_comments = "{{ with_comments|safe }}";
+            if (with_comments == 'True') {
+                is_comment();
+            }
+            else {
+                document.getElementById("resp_form").submit();
+            }
+        }
+        setTimeout(next_page, time_to_response + 3000)
+
+        function is_comment() { 
+            $(".answer").prop("display", none);           
+            $("#hide_form").css("display", "flex");
+            $("#comment").focus();
+        }
+
+        function pic_click(resp) {
+            document.getElementById("resp").value = resp
+            next_page()
+        }
+    </script>
+{% endblock %}

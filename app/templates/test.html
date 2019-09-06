@@ -1,0 +1,190 @@
+{% extends "base.html" %}
+
+{% block app_content %}
+
+<style>
+    #hide_form {
+        display: none;
+    }
+
+    body {
+            background-color: #1e1e1e; 
+            color:#d79d41;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .form_div, .finish {
+            display: flex;
+            justify-content: space-around;
+        }
+        #hide_form {
+            display: none;
+        }
+    
+        .answer {
+            height: 5em;
+            width: 8em;
+            border: 0;
+            float: left;
+            color:#d79d41;
+            font-size: 0.9em;
+            transition-duration: 0.4s;
+        }
+
+        .answer:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+
+        .answer:hover, .selected {
+            box-shadow: 0 0 20px rgb(105, 168, 241);
+        }
+    
+        .two {
+            background-color: rgb(7, 88, 7)
+        }
+    
+        .one {
+            background-color: rgb(22, 129, 22)
+        }
+    
+        .zero {
+            background-color: rgb(94, 131, 26)
+        }
+
+        #comment {
+            height: 140px;
+            width: 500px;
+            border-radius: 10px;
+            border-color:#d79d41;
+            color:black;
+            padding: 0.4em;
+        }
+        .send_div {
+            display: flex;
+            justify-content:right;
+            margin: 0.3em;
+        }
+        
+        .send_div input, .finish {
+            border: none;
+            height: 2.5em;
+            width: 6em;
+            border-radius: 5px;
+            background-color: #d79d41;
+            color: black;
+        }
+
+        .send_div input:hover, .finish:hover {
+            box-shadow: 0 0 20px rgb(105, 168, 241);
+        }
+       
+        .finish a {
+            display: block;
+            text-decoration: none;
+            padding: 0.5em 1em;
+            color:black;
+        }
+
+        .task_text {
+            font-size: 1.5em;
+        }
+</style>
+    <div>Step {{ step + 1 }}/{{ max_step }}</div>
+    <div class="form_div">
+        <form id="resp_form" {% if with_comments %} onsubmit="on_submit()" {% endif %} method="post">
+            <input type="submit" onclick="but_click(this)" id="Digit1" class="answer two" name="response" value="++left" disabled>
+            <input type="submit" onclick="but_click(this)" id="Digit2" class="answer one" name="response" value="+left" disabled>
+            <input type="submit" onclick="but_click(this)" id="Digit3" class="answer zero" name="response" value="indifferent" disabled>
+            <input type="submit" onclick="but_click(this)" id="Digit4" class="answer one" name="response" value="+right" disabled>
+            <input type="submit" onclick="but_click(this)" id="Digit5" class="answer two" name="response" value="++right" disabled>
+        </form>
+    </div>
+    <div id="hide_form" class="form_div">
+        <div>
+            <div>Comment:</div>
+            <form id="comment_form" method="post">
+                <input type="hidden" name="response" id="hidden_resp">
+                <textarea  name="comment" id="comment"></textarea>
+                <div class="send_div">
+                    <input type="submit" value="Send">
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="finish">
+        <a href="{{ url_for('finish') }}">Finish</a>
+    </div>
+    <div class="form_div">
+        <span class="task_text">{{ task }}</span>
+    </div>
+    
+    <script>
+        function form_is_ready() {
+            $("input").prop("disabled", false)            
+        }
+        setTimeout(form_is_ready, 3000)
+
+        var time_to_response="{{ time_to_response|safe }}" * 1000;
+        function next_page() {
+            var with_comments = "{{ with_comments|safe }}";
+            if (with_comments == 'True') {
+                is_comment();
+            }
+            else {
+                document.getElementById("resp_form").submit();
+            }
+        }
+        setTimeout(next_page, time_to_response + 3000)
+
+        function on_submit() {
+            event.preventDefault();
+            is_comment() 
+        }
+
+        function is_comment() { 
+            $(".answer").prop("disabled", true);           
+            $("#hide_form").css("display", "flex");
+            $("#comment").focus();
+        }
+
+        function but_click(but) {
+            but.style="box-shadow: 0 0 20px rgb(105, 168, 241);opacity: 0.9;";
+            $("#hidden_resp").val(but.value);
+        }
+
+        document.addEventListener('keydown', function(event) {
+            if ($('#Digit1').prop("disabled") == false) {
+                event.preventDefault();
+                switch(event.code) {
+                    case 'Digit1': 
+                        $("#Digit1").click();
+                        break;
+                    case 'Digit2': 
+                        $("#Digit2").click();
+                        break;
+                    case 'Digit3': 
+                        $("#Digit3").click();
+                        break;
+                    case 'Digit4': 
+                        $("#Digit4").click();
+                        break;
+                    case 'Digit5': 
+                        $("#Digit5").click();
+                        break;
+                }
+            }
+        });
+
+        $(function ()
+        {
+            $(document).on("keydown", "#comment", function(e)
+            {
+                if ((e.keyCode == 13 ) && e.ctrlKey)
+                {
+                    $("#comment_form").submit();
+                }
+            });
+        });
+    </script>
+{% endblock %}
